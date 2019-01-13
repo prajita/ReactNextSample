@@ -1,0 +1,17 @@
+{
+  "name": "ReactNextSample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3001"
+  },
+  "keywords": [],
+  "author": "prajita sinha",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
